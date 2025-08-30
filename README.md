@@ -41,6 +41,14 @@ fake-news-classifier-using-LSTM/
    git clone https://github.com/AbhishekTM/fake-news-classifier-using-LSTM-main.git
    cd fake-news-classifier-using-LSTM-main
 
+Tech Stack
+
+Python
+TensorFlow / Keras
+NumPy, Pandas
+NLTK / spaCy (for text preprocessing)
+Matplotlib / Seaborn
+
 Results
 
 1.Achieved high accuracy on benchmark datasets.
